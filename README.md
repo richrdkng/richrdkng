@@ -3,13 +3,21 @@
 
 <p align="center">    
   <picture>
-    <source srcset="header_530.svg" media="(min-width: 800px)" />
-    <source srcset="header_350.svg" media="(min-width: 400px)" />
-    <img alt="header" src="header_530.svg" width="530">  
+    <source srcset="header_600.svg" media="(min-width: 800px)" />
+    <source srcset="header_460.svg" media="(min-width: 600px)" />
+    <source srcset="header_300-1.svg" media="(min-width: 300px)" />    
+    <img alt="header" src="header_600.svg" width="600">  
   </picture>
 </p>
 
 <br/>
+
+<p align="center">    
+  <picture>
+    <source srcset="header_300-2.svg" media="(min-width: 300px)" />    
+  </picture>
+</p>
+
 <br/>
 
 ## 🚀 Projects
