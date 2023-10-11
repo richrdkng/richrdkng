@@ -1,9 +1,15 @@
+<br/>
+<br/>
+
 <!-- Logo -->
 <p align="center">  
   <picture>
     <img alt="logo" src="header-600.svg" width="600">
   </picture>  
 </p>
+
+<br/>
+<br/>
 
 ## 🚀 Projects
 
