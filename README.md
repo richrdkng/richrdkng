@@ -2,10 +2,10 @@
 
 <p align="center">    
   <picture>
-    <source srcset="header_600.svg" media="(min-width: 1000px)" />
-    <source srcset="header_460.svg" media="(min-width: 600px)" />
+    <source srcset="header_600.svg" media="(min-width: 900px)" />
+    <source srcset="header_460.svg" media="(min-width: 525px)" />
     <source srcset="header_300.svg" media="(min-width: 200px)" />    
-    <img alt="header" src="header_600.svg" width="600">  
+    <img alt="header" src="header_460.svg" width="460">  
   </picture>
 </p>
 
