@@ -4,7 +4,7 @@
 <!-- Logo -->
 <p align="center">  
   <picture> 
-    <img alt="logo" src="header-600.svg" width="600">
+    <img alt="header" srcset="header-400w.svg 400w, header-600w.svg 600w" src="header-600w.svg" width="600">
   </picture>  
 </p>
 
