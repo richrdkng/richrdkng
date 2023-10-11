@@ -1,7 +1,7 @@
 <!-- Logo -->
 <p align="center">  
   <picture>
-    <img alt="logo" src="header.svg" width="600">
+    <img alt="logo" src="header.svg" width="846">
   </picture>  
 </p>
 
