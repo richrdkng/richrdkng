@@ -1,5 +1,4 @@
-<br/>
-
+<!-- Header -->
 <p align="center">    
   <picture>
     <source srcset="header_600.svg" media="(min-width: 900px)" />
@@ -8,8 +7,6 @@
     <img alt="header" src="header_600.svg" width="600">  
   </picture>
 </p>
-
-<br/>
 
 ## 🚀 Projects
 
