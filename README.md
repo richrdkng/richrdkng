@@ -3,7 +3,7 @@
 
 <!-- Logo -->
 <p align="center">  
-  <picture>
+  <picture> 
     <img alt="logo" src="header-600.svg" width="600">
   </picture>  
 </p>
