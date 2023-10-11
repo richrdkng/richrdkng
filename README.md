@@ -8,6 +8,9 @@
   </picture>
 </p>
 
+<br/>
+<br/>
+
 ## 🚀 Projects
 
 Here are my main open source projects.
