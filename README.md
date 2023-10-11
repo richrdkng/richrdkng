@@ -1,20 +1,11 @@
 <br/>
-<br/>
 
 <p align="center">    
   <picture>
-    <source srcset="header_600.svg" media="(min-width: 800px)" />
-    <source srcset="header_460.svg" media="(min-width: 600px)" />
-    <source srcset="header_300-1.svg" media="(min-width: 300px)" />    
+    <source srcset="header_600.svg" media="(min-width: 1000px)" />
+    <source srcset="header_460.svg" media="(max-width: 600px)" />
+    <source srcset="header_300.svg" media="(max-width: 400px)" />    
     <img alt="header" src="header_600.svg" width="600">  
-  </picture>
-</p>
-
-<br/>
-
-<p align="center">    
-  <picture>
-    <source srcset="header_300-2.svg" media="(min-width: 300px)" />    
   </picture>
 </p>
 
