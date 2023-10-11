@@ -3,10 +3,10 @@
 <!-- Header -->
 <p align="center">    
   <picture>
-    <source srcset="header_600.svg" media="(min-width: 900px)" />
+    <source srcset="header_800.svg" media="(min-width: 900px)" />
     <source srcset="header_460.svg" media="(min-width: 525px)" />
     <source srcset="header_300.svg" media="(min-width: 200px)" />    
-    <img alt="header" src="header_600.svg" width="600">  
+    <img alt="header" src="header_800.svg" width="100%">  
   </picture>
 </p>
 
