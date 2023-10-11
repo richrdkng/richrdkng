@@ -10,6 +10,7 @@
   </picture>
 </p>
 
+<!-- 
 ## 🚀 Projects
 
 Here are my main open source projects.
@@ -17,9 +18,30 @@ Here are my main open source projects.
 - grandom
 - data-sources
 - extended
+- intradoc
+- polycolor
+- storyset
+- reactory
+- stylebox
+- testyard
+- wrapper
+<!-- -->
 
-## 🛠️ Tech
+<!-- ## 📝 Blog -->
 
+<!-- ## 🛠️ Tech -->
+
+<!-- Dev Environment:
+ - Ubuntu Linux
+ - Windows
+ - MacOS
+
+Tech I often
+Tech I use
+
+I tried out recently -->
+
+<!--
 <p align="center">  
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?style=flat-square&logo=typescript&logoColor=white">
@@ -32,6 +54,7 @@ Here are my main open source projects.
   <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white">
   <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white">
 </p>
+-->
 
 ## 🤝 Connect
 
@@ -67,7 +90,9 @@ Feel free to connect with me through these links, though please keep in mind ***
 
 ## 🍻 Support
 
-TODO: donably, gh sponsors, liberapay, boosty.to, crypto and more (https://github.com/Ileriayo/markdown-badges#-funding)
+Maintaining open source projects ***takes time and effort***. If you find value in any of what I create, **please consider supporting my work** through one of the provided links. ***Your generosity fuels the open source community. Thank you!*** ❤️
+
+<!-- TODO: donably, gh sponsors, liberapay, boosty.to, crypto and more (https://github.com/Ileriayo/markdown-badges#-funding) -->
 
 <br/>
 
