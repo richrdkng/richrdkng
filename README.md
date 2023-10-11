@@ -3,7 +3,7 @@
 <!-- Header -->
 <p align="center">    
   <picture>
-    <source srcset="header_600.svg" media="(min-width: 925px)" />
+    <source srcset="header_600.svg" media="(min-width: 950px)" />
     <source srcset="header_460.svg" media="(min-width: 525px)" />
     <source srcset="header_300.svg" media="(min-width: 200px)" />    
     <img alt="header" src="header_600.svg" width="846">  
