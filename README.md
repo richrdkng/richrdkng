@@ -1,7 +1,7 @@
 <!-- Logo -->
 <p align="center">  
   <picture>
-    <img alt="grandom-js monorepo logo" src="header.jpg" width="100%">
+    <img alt="logo" src="header.svg" width="100%">
   </picture>  
 </p>
 
@@ -15,8 +15,7 @@ Here are my main open source projects.
 
 ## 🛠️ Tech
 
-<p align="center">
-  
+<p align="center">  
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?style=flat-square&logo=typescript&logoColor=white">
   <img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white">  
