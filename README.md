@@ -10,6 +10,20 @@
     src="header-600w.svg" width="600">  
 </p>
 
+<p align="center">    
+  <picture>
+    <source 
+      srcset="header-400w.svg"
+      media="(min-width: 800px)"
+    />
+    <source 
+      srcset="header-600w.svg"
+      media="(min-width: 400px)"
+    />
+    <img alt="header" src="header-600w.svg" width="600">  
+  </picture>
+</p>
+
 <br/>
 <br/>
 
