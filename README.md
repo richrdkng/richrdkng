@@ -1,26 +1,11 @@
 <br/>
 <br/>
 
-<!-- sizes="(max-width: 600px) 400px, 600px" -->
-
-<!-- Logo -->
-<p align="center">    
-  <img alt="header"
-    srcset="header-400w.svg 800w, header-600w.svg 400w"     
-    src="header-600w.svg" width="600">  
-</p>
-
 <p align="center">    
   <picture>
-    <source 
-      srcset="header-400w.svg"
-      media="(min-width: 800px)"
-    />
-    <source 
-      srcset="header-600w.svg"
-      media="(min-width: 400px)"
-    />
-    <img alt="header" src="header-600w.svg" width="600">  
+    <source srcset="header_530.svg" media="(min-width: 800px)" />
+    <source srcset="header_350.svg" media="(min-width: 400px)" />
+    <img alt="header" src="header_530.svg" width="530">  
   </picture>
 </p>
 
