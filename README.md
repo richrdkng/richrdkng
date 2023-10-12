@@ -1,6 +1,9 @@
-<br/>
+## 🖐️ Hi!
 
-<!-- Header -->
+I'm Richard King, a Full-Stack Software Engineer with 15 years in the industry.
+
+<!-- <br/>
+
 <p align="center">    
   <picture>
     <source srcset="header_600.svg" media="(min-width: 950px)" />
@@ -9,6 +12,7 @@
     <img alt="header" src="header_600.svg" width="846">  
   </picture>
 </p>
+-->
 
 <!-- 
 ## 🚀 Projects
