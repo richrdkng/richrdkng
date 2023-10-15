@@ -1,6 +1,6 @@
 ## 🖐️ Hi!
 
-I'm Richard King, a Full-Stack Software Engineer with 15 years in the industry.
+I'm Richard King, a **Full-Stack Software Engineer** and a ***UI/UX/Web Design enthusiast*** with **15 years in the industry**.
 
 <!-- <br/>
 
@@ -14,26 +14,30 @@ I'm Richard King, a Full-Stack Software Engineer with 15 years in the industry.
 </p>
 -->
 
-<!-- 
-## 🚀 Projects
+<!-- ## 🚀 Projects
 
-Here are my main open source projects.
+Here you can find my main open source projects.
 
-- grandom
-- data-sources
-- extended
-- intradoc
-- polycolor
-- storyset
-- reactory
-- stylebox
-- testyard
-- wrapper
-<!-- -->
+- Data Sources: Open source data resources.
 
-<!-- ## 📝 Blog -->
+- Grandom Library: A cross-platform, configurable, flexible, and seedable random number & data generator library.
 
-<!-- ## 🛠️ Tech -->
+- Extended
+- Intradoc
+- Polycolor
+- Storyset
+- Reactory
+- Stylebox
+- Testyard
+- Wrapper
+
+## 📝 Articles
+
+Here you can find my articles and tutorials about software development.
+
+## 🛠️ Tech
+
+Here you can find the tech stack I use. -->
 
 <!-- Dev Environment:
  - Ubuntu Linux
