@@ -1,4 +1,4 @@
-## 🖐️ Hi!
+## 🖐️ Hello!
 
 I'm Richard King, a **Full-Stack Software Engineer** and a ***UI/UX/Web Design enthusiast*** with **15 years in the industry**.
 
@@ -96,31 +96,31 @@ Feel free to connect with me through these links, though please keep in mind ***
   <a href="https://www.richrdkng.com"><img src="https://img.shields.io/badge/Website-C5383D?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAwIDgwMCI+PHBhdGggZmlsbD0iI2ZmZiIgZD0ibTk2MCAzNDYgNDAtMTg0LTIyMyAxMjgtMjQgNzlINjI2bDM4LTE1Nkw1MDAgMCAzMzYgMjEzbDM4IDE1NkgyNDdsLTI0LTc5TDAgMTYybDEyNiA1ODAgMjM5IDQ1Yzg5IDE3IDE4MCAxNyAyNzAgMGwyMzgtNDUgODctMzk2WiIvPjwvc3ZnPg==" alt="website-badge"></a>
 </p>
 
-## 🍻 Support
+<!-- ## 🍻 Support
 
-Maintaining open source projects ***takes time and effort***. If you find value in any of what I create, **please consider supporting my work** through one of the provided links. ***Your generosity fuels the open source community. Thank you!*** ❤️
+Maintaining open source projects ***takes time and effort***. If you find value in any of what I create, **please consider supporting my work** through one of the provided links. ***Your generosity fuels the open source community. Thank you!*** ❤️ -->
 
 <!-- TODO: donably, gh sponsors, liberapay, boosty.to, crypto and more (https://github.com/Ileriayo/markdown-badges#-funding) -->
 
 <br/>
 
 <!-- 1st row -->
-<p align="center">
+<!-- <p align="center"> -->
   <!-- PayPal -->
-  <a href="https://www.paypal.com/donate/?hosted_button_id=ZCJ75S25NS7QC"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="paypal-badge"></a>  
+  <!-- <a href="https://www.paypal.com/donate/?hosted_button_id=ZCJ75S25NS7QC"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="paypal-badge"></a>   -->
   <!-- Patreon -->
-  <a href="https://www.patreon.com/richrdkng"><img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" alt="patreon-badge"></a>
+  <!-- <a href="https://www.patreon.com/richrdkng"><img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" alt="patreon-badge"></a> -->
   <!-- SubscribeStar -->
-  <a href="https://www.subscribestar.com/richrdkng"><img src="https://img.shields.io/badge/SubscribeStar-009688?style=for-the-badge&logo=stryker&logoColor=white" alt="subscribestar-badge"></a>
-</p>
+  <!-- <a href="https://www.subscribestar.com/richrdkng"><img src="https://img.shields.io/badge/SubscribeStar-009688?style=for-the-badge&logo=stryker&logoColor=white" alt="subscribestar-badge"></a> -->
+<!-- </p> -->
 
 <!-- 2nd row -->
-<p align="center">  
+<!-- <p align="center">   -->
   <!-- Ko-fi -->
-  <a href="https://ko-fi.com/richrdkng"><img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=kofi&logoColor=white" alt="ko-fi-badge"></a>
+  <!-- <a href="https://ko-fi.com/richrdkng"><img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=kofi&logoColor=white" alt="ko-fi-badge"></a> -->
   <!-- Buy me a Coffee -->
-  <a href="https://www.buymeacoffee.com/richrdkng"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="buy-me-a-coffee-badge"></a>
-</p>
+  <!-- <a href="https://www.buymeacoffee.com/richrdkng"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="buy-me-a-coffee-badge"></a> -->
+<!-- </p> -->
 
 <!--
 Here are some ideas to get you started:
