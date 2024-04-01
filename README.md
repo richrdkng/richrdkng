@@ -14,54 +14,6 @@ I'm Richard King, a **Full-Stack Software Engineer** and a ***UI/UX/Web Design e
 </p>
 -->
 
-## 🚀 Projects
-
-
-<ul>
-  <li>
-    <a href="https://github.com/pressfield"><sub><sub><sub><sub><sub><img src="./pressfield-logo.svg" width="30" height="26" /></sub></sub></sub></sub></sub></a>
-    <b>&nbsp;Pressfield</b>
-    <i>
-      (<a href="https://github.com/pressfield">github.com/pressfield</a>)
-    </i>    
-    <p>
-      Smart, automated, AI-driven software release updates and changelog publishing.      
-      <br/>
-      <br/>
-      <i>Keywords:</i> <b><i>AI, ML, DevOps, CI/CD, Social Media</i></b>
-      <br/>
-      <i>Tech Stack:</i> <b><i>JavaScript, Python</i></b>      
-    </p>
-    <details>
-      <summary>Details</summary>
-      <p>
-        Text
-      </p>
-    </details>
-    <hr/>
-  </li>
-
-  <li>
-    <a href="https://github.com/pressfield">
-      <img src="./icon.svg" width="24" height="24" align="left" />     
-    </a>    
-    <b>Pressfield</b>
-    <i>
-      (<a href="https://github.com/pressfield">github.com/pressfield</a>)
-    </i>    
-    <p>
-      <br/>
-      Smart, automated, AI-driven software release updates and changelog publishing.
-      <hr/>
-      <i>Keywords:</i> <b><i>AI, ML, DevOps, CI/CD, Social Media</i></b>
-      <br/>
-      <i>Tech Stack:</i> <b><i>JavaScript, Python</i></b>
-      <br/>
-    </p>
-  </li>
-</ul>
-
-
 <!-- ## 🚀 Projects
 
 Here you can find my main open source projects.
