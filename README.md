@@ -20,7 +20,7 @@ I'm Richard King, a **Full-Stack Software Engineer** and a ***UI/UX/Web Design e
 <ul>
   <!-- Pressfield -->
   <li>
-    <h3><a href="https://github.com/pressfield" title="Pressfield logo"><sub><sub><sub><sub><sub><sub><sub><sub><sub><sub><img src="./media/icons/projects/pressfield/color.svg" width="30" height="30" /></sub></sub></sub></sub></sub></sub></sub></sub></sub></sub></a>&nbsp;&nbsp;Pressfield&nbsp;<i>(<a href="https://github.com/pressfield">github.com/pressfield</a>)</i></h3><h4>Smart, automated, AI-driven software release updates and changelog publishing.</h4>
+    <h3><a href="https://github.com/pressfield" title="Pressfield logo"><sub><sub><sub><sub><sub><sub><sub><sub><sub><sub><img src="./media/icons/projects/pressfield/color.svg" width="30" height="30" /></sub></sub></sub></sub></sub></sub></sub></sub></sub></sub></a>&nbsp; Pressfield <i>(<a href="https://github.com/pressfield">github.com/pressfield</a>)</i></h3><h4>Smart, automated, AI-driven software release updates and changelog publishing.</h4>
     <p>
       <i title="Pressfield-related keywords">- Keywords:</i> <b><i title="Artificial Intelligence">AI</i>, <i title="Machine Learning">ML</i></b>
       <br/>
@@ -30,7 +30,7 @@ I'm Richard King, a **Full-Stack Software Engineer** and a ***UI/UX/Web Design e
   </li>
   <!-- Pressfield -->
   <li>
-    <h3><a href="https://github.com/pressfield" title="Pressfield logo"><sub><sub><sub><sub><sub><sub><sub><sub><sub><sub><img src="./media/icons/projects/pressfield/color.svg" width="30" height="30" /></sub></sub></sub></sub></sub></sub></sub></sub></sub></sub></a>&nbsp;&nbsp;Pressfield&nbsp;<i>(<a href="https://github.com/pressfield">github.com/pressfield</a>)</i></h3><h4>Smart, automated, AI-driven software release updates and changelog publishing.</h4>
+    <h3><a href="https://github.com/pressfield" title="Pressfield logo"><sub><sub><sub><sub><sub><sub><sub><sub><sub><sub><img src="./media/icons/projects/pressfield/color.svg" width="30" height="30" /></sub></sub></sub></sub></sub></sub></sub></sub></sub></sub></a>&nbsp; Pressfield <i>(<a href="https://github.com/pressfield">github.com/pressfield</a>)</i></h3><h4>Smart, automated, AI-driven software release updates and changelog publishing.</h4>
     <p>
       <i title="Pressfield-related keywords">- Keywords:</i> <b><i title="Artificial Intelligence">AI</i>, <i title="Machine Learning">ML</i></b>
       <br/>
@@ -40,7 +40,7 @@ I'm Richard King, a **Full-Stack Software Engineer** and a ***UI/UX/Web Design e
   </li>
   <!-- Pressfield -->
   <li>
-    <h3><a href="https://github.com/pressfield" title="Pressfield logo"><sub><sub><sub><sub><sub><sub><sub><sub><sub><sub><img src="./media/icons/projects/pressfield/color.svg" width="30" height="30" /></sub></sub></sub></sub></sub></sub></sub></sub></sub></sub></a>&nbsp;&nbsp;Pressfield&nbsp;<i>(<a href="https://github.com/pressfield">github.com/pressfield</a>)</i></h3><h4>Smart, automated, AI-driven software release updates and changelog publishing.</h4>
+    <h3><a href="https://github.com/pressfield" title="Pressfield logo"><sub><sub><sub><sub><sub><sub><sub><sub><sub><sub><img src="./media/icons/projects/pressfield/color.svg" width="30" height="30" /></sub></sub></sub></sub></sub></sub></sub></sub></sub></sub></a>&nbsp; Pressfield <i>(<a href="https://github.com/pressfield">github.com/pressfield</a>)</i></h3><h4>Smart, automated, AI-driven software release updates and changelog publishing.</h4>
     <p>
       <i title="Pressfield-related keywords">- Keywords:</i> <b><i title="Artificial Intelligence">AI</i>, <i title="Machine Learning">ML</i></b>
       <br/>
