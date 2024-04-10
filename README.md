@@ -25,7 +25,8 @@ I'm Richard King, a **Full-Stack Software Engineer** and a ***UI/UX/Web Design e
     <i>(<a href="https://github.com/pressfield">github.com/pressfield</a>)</i>
     <p>
       Smart, automated, AI-driven software release updates and changelog publishing.
-      <br/><br/>
+    </p>
+    <p>
       <i>Keywords:</i> <b><i title="Artificial Intelligence">AI</i>, <i title="Machine Learning">ML</i></b>
       <br/>
       <i>Tech Stack:</i> <a href="https://github.com/pressfield" title="JavaScript"><sub><sub><sub><sub><sub><img src="./media/icons/tech/javascript/color.svg" width="24" height="24" /></sub></sub></sub></sub></sub></a> <a href="https://github.com/pressfield" title="TypeScript"><sub><sub><sub><sub><sub><img src="./media/icons/tech/typescript/color.svg" width="24" height="24" /></sub></sub></sub></sub></sub></a>
