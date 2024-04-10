@@ -18,11 +18,11 @@ I'm Richard King, a **Full-Stack Software Engineer** and a ***UI/UX/Web Design e
 
 <!-- @intradoc Projects -->
 <ul>
-  <!-- Pressfield -->
+  <!---------- Pressfield ---------->
   <li>
-    <a href="https://github.com/pressfield"><sub><sub><sub><sub><sub><sub><sub><sub><sub><sub><img src="./media/icons/projects/pressfield/color.svg" width="30" height="28" /></sub></sub></sub></sub></sub></sub></sub></sub></sub></sub></a>
+    <a href="https://github.com/pressfield" title="Pressfield"><sub><sub><sub><sub><sub><sub><sub><sub><sub><sub><img src="./media/icons/projects/pressfield/color.svg" width="30" height="28" /></sub></sub></sub></sub></sub></sub></sub></sub></sub></sub></a>
     <b>&nbsp;Pressfield</b>
-    <i><a href="https://github.com/pressfield">github.com/pressfield</a></i>
+    <i>(<a href="https://github.com/pressfield">github.com/pressfield</a>)</i>
     <p>
       Smart, automated, AI-driven software release updates and changelog publishing.
       <br/><br/>
