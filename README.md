@@ -14,6 +14,44 @@ I'm Richard King, a **Full-Stack Software Engineer** and a ***UI/UX/Web Design e
 </p>
 -->
 
+## 🚀 Projects
+
+<!-- @intradoc Projects -->
+<ul>
+  <!-- Pressfield -->
+  <li>
+    <h3><a href="https://github.com/pressfield" title="Pressfield logo"><sub><sub><sub><sub><sub><sub><sub><sub><sub><sub><img src="./media/icons/projects/pressfield/color.svg" width="30" height="30" /></sub></sub></sub></sub></sub></sub></sub></sub></sub></sub></a>&nbsp;&nbsp;Pressfield&nbsp;<i>(<a href="https://github.com/pressfield">github.com/pressfield</a>)</i></h3><h4>Smart, automated, AI-driven software release updates and changelog publishing.</h4>
+    <p>
+      <i title="Pressfield-related keywords">- Keywords:</i> <b><i title="Artificial Intelligence">AI</i>, <i title="Machine Learning">ML</i></b>
+      <br/>
+      <i title="Pressfield-related tech stack">- Tech Stack:</i> <a href="https://github.com/pressfield" title="JavaScript"><sub><sub><sub><sub><sub><img src="./media/icons/tech/javascript/color.svg" width="24" height="24" /></sub></sub></sub></sub></sub></a> <a href="https://github.com/pressfield" title="TypeScript"><sub><sub><sub><sub><sub><img src="./media/icons/tech/typescript/color.svg" width="24" height="24" /></sub></sub></sub></sub></sub></a>
+      <hr/>
+    </p>
+  </li>
+  <!-- Pressfield -->
+  <li>
+    <h3><a href="https://github.com/pressfield" title="Pressfield logo"><sub><sub><sub><sub><sub><sub><sub><sub><sub><sub><img src="./media/icons/projects/pressfield/color.svg" width="30" height="30" /></sub></sub></sub></sub></sub></sub></sub></sub></sub></sub></a>&nbsp;&nbsp;Pressfield&nbsp;<i>(<a href="https://github.com/pressfield">github.com/pressfield</a>)</i></h3><h4>Smart, automated, AI-driven software release updates and changelog publishing.</h4>
+    <p>
+      <i title="Pressfield-related keywords">- Keywords:</i> <b><i title="Artificial Intelligence">AI</i>, <i title="Machine Learning">ML</i></b>
+      <br/>
+      <i title="Pressfield-related tech stack">- Tech Stack:</i> <a href="https://github.com/pressfield" title="JavaScript"><sub><sub><sub><sub><sub><img src="./media/icons/tech/javascript/color.svg" width="24" height="24" /></sub></sub></sub></sub></sub></a> <a href="https://github.com/pressfield" title="TypeScript"><sub><sub><sub><sub><sub><img src="./media/icons/tech/typescript/color.svg" width="24" height="24" /></sub></sub></sub></sub></sub></a>
+      <hr/>
+    </p>
+  </li>
+  <!-- Pressfield -->
+  <li>
+    <h3><a href="https://github.com/pressfield" title="Pressfield logo"><sub><sub><sub><sub><sub><sub><sub><sub><sub><sub><img src="./media/icons/projects/pressfield/color.svg" width="30" height="30" /></sub></sub></sub></sub></sub></sub></sub></sub></sub></sub></a>&nbsp;&nbsp;Pressfield&nbsp;<i>(<a href="https://github.com/pressfield">github.com/pressfield</a>)</i></h3><h4>Smart, automated, AI-driven software release updates and changelog publishing.</h4>
+    <p>
+      <i title="Pressfield-related keywords">- Keywords:</i> <b><i title="Artificial Intelligence">AI</i>, <i title="Machine Learning">ML</i></b>
+      <br/>
+      <i title="Pressfield-related tech stack">- Tech Stack:</i> <a href="https://github.com/pressfield" title="JavaScript"><sub><sub><sub><sub><sub><img src="./media/icons/tech/javascript/color.svg" width="24" height="24" /></sub></sub></sub></sub></sub></a> <a href="https://github.com/pressfield" title="TypeScript"><sub><sub><sub><sub><sub><img src="./media/icons/tech/typescript/color.svg" width="24" height="24" /></sub></sub></sub></sub></sub></a>
+      <hr/>
+    </p>
+  </li>
+</ul>
+
+<!-- @intradoc Projects -->
+
 ## 🤝 Connect
 
 Feel free to connect with me through these links, though please keep in mind ***I may not be able to respond promptly due to my busy schedule*** and workload. **Thank you for your understanding in advance! 😊**
