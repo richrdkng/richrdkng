@@ -25,7 +25,7 @@ I'm Richard King, a **Full-Stack Software Engineer** and a ***UI/UX/Web Design e
       <i title="Pressfield-related keywords">- Keywords:</i> <b><i title="Artificial Intelligence">AI</i>, <i title="Machine Learning">ML</i></b>
       <br/>
       <i title="Pressfield-related tech stack">- Tech Stack:</i> <a href="https://github.com/pressfield" title="JavaScript"><sub><sub><sub><sub><sub><img src="./media/icons/tech/javascript/color.svg" width="24" height="24" /></sub></sub></sub></sub></sub></a> <a href="https://github.com/pressfield" title="TypeScript"><sub><sub><sub><sub><sub><img src="./media/icons/tech/typescript/color.svg" width="24" height="24" /></sub></sub></sub></sub></sub></a>
-      <hr/>
+      <sub><sub><sub><sub><sub><a href="https://github.com/pressfield"><img src="./line-4.svg" width="100%" height="3" /></a></sub></sub></sub></sub></sub>
     </p>
   </li>
   <!-- Pressfield -->
@@ -35,7 +35,7 @@ I'm Richard King, a **Full-Stack Software Engineer** and a ***UI/UX/Web Design e
       <i title="Pressfield-related keywords">- Keywords:</i> <b><i title="Artificial Intelligence">AI</i>, <i title="Machine Learning">ML</i></b>
       <br/>
       <i title="Pressfield-related tech stack">- Tech Stack:</i> <a href="https://github.com/pressfield" title="JavaScript"><sub><sub><sub><sub><sub><img src="./media/icons/tech/javascript/color.svg" width="24" height="24" /></sub></sub></sub></sub></sub></a> <a href="https://github.com/pressfield" title="TypeScript"><sub><sub><sub><sub><sub><img src="./media/icons/tech/typescript/color.svg" width="24" height="24" /></sub></sub></sub></sub></sub></a>
-      <hr/>
+      <sub><sub><sub><sub><sub><a href="https://github.com/pressfield"><img src="./line-4.svg" width="100%" height="3" /></a></sub></sub></sub></sub></sub>
     </p>
   </li>
   <!-- Pressfield -->
@@ -45,7 +45,7 @@ I'm Richard King, a **Full-Stack Software Engineer** and a ***UI/UX/Web Design e
       <i title="Pressfield-related keywords">- Keywords:</i> <b><i title="Artificial Intelligence">AI</i>, <i title="Machine Learning">ML</i></b>
       <br/>
       <i title="Pressfield-related tech stack">- Tech Stack:</i> <a href="https://github.com/pressfield" title="JavaScript"><sub><sub><sub><sub><sub><img src="./media/icons/tech/javascript/color.svg" width="24" height="24" /></sub></sub></sub></sub></sub></a> <a href="https://github.com/pressfield" title="TypeScript"><sub><sub><sub><sub><sub><img src="./media/icons/tech/typescript/color.svg" width="24" height="24" /></sub></sub></sub></sub></sub></a>
-      <hr/>
+      <sub><sub><sub><sub><sub><a href="https://github.com/pressfield"><img src="./line-4.svg" width="100%" height="3" /></a></sub></sub></sub></sub></sub>
     </p>
   </li>
 </ul>
