@@ -20,7 +20,7 @@ I'm Richard King, a **Full-Stack Software Engineer** and a ***UI/UX/Web Design e
 <ul>
   <!---------- Pressfield ---------->
   <li>
-    <a href="https://github.com/pressfield" title="Pressfield logo"><sub><sub><sub><sub><sub><sub><sub><sub><sub><sub><img src="./media/icons/projects/pressfield/color.svg" width="30" height="30" /></sub></sub></sub></sub></sub></sub></sub></sub></sub></sub></a>
+    <a href="https://github.com/pressfield" title="Pressfield logo"><sub><sub><sub><sub><sub><sub><sub><sub><sub><sub><img src="./media/icons/projects/pressfield/color.svg" width="28" height="28" /></sub></sub></sub></sub></sub></sub></sub></sub></sub></sub></a>
     <b>&nbsp;Pressfield</b>
     <i>(<a href="https://github.com/pressfield">github.com/pressfield</a>)</i>
     <p>
@@ -35,7 +35,7 @@ I'm Richard King, a **Full-Stack Software Engineer** and a ***UI/UX/Web Design e
   </li>
   <!---------- Pressfield ---------->
   <li>
-    <a href="https://github.com/pressfield" title="Pressfield logo"><sub><sub><sub><sub><sub><sub><sub><sub><sub><sub><img src="./media/icons/projects/pressfield/color.svg" width="30" height="30" /></sub></sub></sub></sub></sub></sub></sub></sub></sub></sub></a>
+    <a href="https://github.com/pressfield" title="Pressfield logo"><sub><sub><sub><sub><sub><sub><sub><sub><sub><sub><img src="./media/icons/projects/pressfield/color.svg" width="28" height="28" /></sub></sub></sub></sub></sub></sub></sub></sub></sub></sub></a>
     <b>&nbsp;Pressfield</b>
     <i>(<a href="https://github.com/pressfield">github.com/pressfield</a>)</i>
     <p>
@@ -50,7 +50,7 @@ I'm Richard King, a **Full-Stack Software Engineer** and a ***UI/UX/Web Design e
   </li>
   <!---------- Pressfield ---------->
   <li>
-    <a href="https://github.com/pressfield" title="Pressfield logo"><sub><sub><sub><sub><sub><sub><sub><sub><sub><sub><img src="./media/icons/projects/pressfield/color.svg" width="30" height="30" /></sub></sub></sub></sub></sub></sub></sub></sub></sub></sub></a>
+    <a href="https://github.com/pressfield" title="Pressfield logo"><sub><sub><sub><sub><sub><sub><sub><sub><sub><sub><img src="./media/icons/projects/pressfield/color.svg" width="28" height="28" /></sub></sub></sub></sub></sub></sub></sub></sub></sub></sub></a>
     <b>&nbsp;Pressfield</b>
     <i>(<a href="https://github.com/pressfield">github.com/pressfield</a>)</i>
     <p>
