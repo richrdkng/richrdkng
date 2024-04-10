@@ -20,29 +20,15 @@ I'm Richard King, a **Full-Stack Software Engineer** and a ***UI/UX/Web Design e
 <ul>
   <!-- Pressfield -->
   <li>
-    <a href="https://github.com/pressfield"><sub><sub><sub><sub><sub><sub><sub><sub><sub><sub><sub><sub><sub><sub><sub><sub><sub><sub><sub><sub><sub><sub><sub><sub><sub><img src="./media/icons/projects/pressfield/color.svg" width="30" height="28" /></sub></sub></sub></sub></sub></sub></sub></sub></sub></sub></sub></sub></sub></sub></sub></sub></sub></sub></sub></sub></sub></sub></sub></sub></sub></a>
+    <a href="https://github.com/pressfield"><sub><sub><sub><sub><sub><sub><sub><sub><sub><sub><img src="./media/icons/projects/pressfield/color.svg" width="30" height="28" /></sub></sub></sub></sub></sub></sub></sub></sub></sub></sub></a>
     <b>&nbsp;Pressfield</b>
-    <i>(<a href="https://github.com/pressfield">github.com/pressfield</a>)</i>
+    <i><a href="https://github.com/pressfield">github.com/pressfield</a></i>
     <p>
       Smart, automated, AI-driven software release updates and changelog publishing.
       <br/><br/>
       <i>Keywords:</i> <b><i>AI, ML</i></b>
       <br/>
-      <i>Tech Stack:</i> <a href="https://github.com/pressfield"><sub><sub><sub><sub><sub><sub><sub><sub><sub><sub><img src="./media/icons/tech/javascript/color.svg" width="24" height="24" /></sub></sub></sub></sub></sub></sub></sub></sub></sub></sub></a> <a href="https://github.com/pressfield"><sub><sub><sub><sub><sub><sub><sub><sub><sub><sub><img src="./media/icons/tech/typescript/color.svg" width="24" height="24" /></sub></sub></sub></sub></sub></sub></sub></sub></sub></sub></a>
-      <hr/>
-    </p>
-  </li>
-  <!-- Pressfield -->
-  <li>
-    <a href="https://github.com/pressfield"><sub><sub><sub><sub><sub><sub><sub><sub><sub><sub><sub><sub><sub><sub><sub><sub><sub><sub><sub><sub><sub><sub><sub><sub><sub><img src="./media/icons/projects/pressfield/color.svg" width="30" height="28" /></sub></sub></sub></sub></sub></sub></sub></sub></sub></sub></sub></sub></sub></sub></sub></sub></sub></sub></sub></sub></sub></sub></sub></sub></sub></a>
-    <b>&nbsp;Pressfield</b>
-    <i>(<a href="https://github.com/pressfield">github.com/pressfield</a>)</i>
-    <p>
-      Smart, automated, AI-driven software release updates and changelog publishing.
-      <br/><br/>
-      <i>Keywords:</i> <b><i>AI, ML</i></b>
-      <br/>
-      <i>Tech Stack:</i> <a href="https://github.com/pressfield"><sub><sub><sub><sub><sub><sub><sub><sub><sub><sub><img src="./media/icons/tech/javascript/color.svg" width="24" height="24" /></sub></sub></sub></sub></sub></sub></sub></sub></sub></sub></a> <a href="https://github.com/pressfield"><sub><sub><sub><sub><sub><sub><sub><sub><sub><sub><img src="./media/icons/tech/typescript/color.svg" width="24" height="24" /></sub></sub></sub></sub></sub></sub></sub></sub></sub></sub></a>
+      <i>Tech Stack:</i> <a href="https://github.com/pressfield" title="JavaScript"><sub><sub><sub><sub><sub><img src="./media/icons/tech/javascript/color.svg" width="24" height="24" /></sub></sub></sub></sub></sub></a> <a href="https://github.com/pressfield" title="TypeScript"><sub><sub><sub><sub><sub><img src="./media/icons/tech/typescript/color.svg" width="24" height="24" /></sub></sub></sub></sub></sub></a>
       <hr/>
     </p>
   </li>
