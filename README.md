@@ -14,44 +14,6 @@ I'm Richard King, a **Full-Stack Software Engineer** and a ***UI/UX/Web Design e
 </p>
 -->
 
-## 🚀 Projects
-
-<!-- @intradoc Projects -->
-<ul>
-  <!-- Pressfield -->
-  <li>
-    <h3><a href="https://github.com/pressfield" title="Pressfield logo"><sub><sub><sub><sub><sub><sub><sub><sub><sub><sub><img src="./media/icons/projects/pressfield/color.svg" width="28" height="28" /></sub></sub></sub></sub></sub></sub></sub></sub></sub></sub></a>&nbsp; Pressfield <i>(<a href="https://github.com/pressfield">github.com/pressfield</a>)</i></h3><h4>Smart, automated, AI-driven software release updates and changelog publishing.</h4>
-    <p>
-      <i title="Pressfield-related keywords">- Keywords:</i> <b><i title="Artificial Intelligence">AI</i>, <i title="Machine Learning">ML</i></b>
-      <br/>
-      <i title="Pressfield-related tech stack">- Tech Stack:</i> <a href="https://github.com/pressfield" title="JavaScript"><sub><sub><sub><sub><sub><img src="./media/icons/tech/javascript/color.svg" width="24" height="24" /></sub></sub></sub></sub></sub></a> <a href="https://github.com/pressfield" title="TypeScript"><sub><sub><sub><sub><sub><img src="./media/icons/tech/typescript/color.svg" width="24" height="24" /></sub></sub></sub></sub></sub></a>
-      <sub><sub><sub><sub><sub><a href="https://github.com/pressfield"><img src="./media/icons/decoration/line-4.svg" width="100%" height="3" /></a></sub></sub></sub></sub></sub>
-    </p>
-  </li>
-  <!-- Data Sources -->
-  <li>
-    <h3><a href="https://github.com/data-sources" title="Data Sources logo"><sub><sub><sub><sub><sub><sub><sub><sub><sub><sub><img src="./media/icons/projects/data-sources/color.svg" width="28" height="28" /></sub></sub></sub></sub></sub></sub></sub></sub></sub></sub></a>&nbsp; Data Sources <i>(<a href="https://github.com/data-sources">github.com/data-sources</a>)</i></h3><h4>A collection of various open source data sets packaged and prepared.</h4>
-    <p>
-      <i title="Data Sources-related keywords">- Keywords:</i> <b><i title="Artificial Intelligence">AI</i>, <i title="Machine Learning">ML</i></b>
-      <br/>
-      <i title="Data Sources-related tech stack">- Tech Stack:</i> <a href="https://github.com/data-sources" title="JavaScript"><sub><sub><sub><sub><sub><img src="./media/icons/tech/javascript/color.svg" width="24" height="24" /></sub></sub></sub></sub></sub></a> <a href="https://github.com/data-sources" title="TypeScript"><sub><sub><sub><sub><sub><img src="./media/icons/tech/typescript/color.svg" width="24" height="24" /></sub></sub></sub></sub></sub></a>
-      <sub><sub><sub><sub><sub><a href="https://github.com/data-sources"><img src="./media/icons/decoration/line-4.svg" width="100%" height="3" /></a></sub></sub></sub></sub></sub>
-    </p>
-  </li>
-  <!-- Grandom -->
-  <li>
-    <h3><a href="https://github.com/grandom" title="Grandom logo"><sub><sub><sub><sub><sub><sub><sub><sub><sub><sub><img src="./media/icons/projects/grandom/color.svg" width="28" height="28" /></sub></sub></sub></sub></sub></sub></sub></sub></sub></sub></a>&nbsp; Grandom <i>(<a href="https://github.com/grandom">github.com/grandom</a>)</i></h3><h4>A configurable, flexible, and versatile random number and data generator library.</h4>
-    <p>
-      <i title="Grandom-related keywords">- Keywords:</i> <b><i title="Artificial Intelligence">AI</i>, <i title="Machine Learning">ML</i></b>
-      <br/>
-      <i title="Grandom-related tech stack">- Tech Stack:</i> <a href="https://github.com/grandom" title="JavaScript"><sub><sub><sub><sub><sub><img src="./media/icons/tech/javascript/color.svg" width="24" height="24" /></sub></sub></sub></sub></sub></a> <a href="https://github.com/grandom" title="TypeScript"><sub><sub><sub><sub><sub><img src="./media/icons/tech/typescript/color.svg" width="24" height="24" /></sub></sub></sub></sub></sub></a>
-      <sub><sub><sub><sub><sub><a href="https://github.com/grandom"><img src="./media/icons/decoration/line-4.svg" width="100%" height="3" /></a></sub></sub></sub></sub></sub>
-    </p>
-  </li>
-</ul>
-
-<!-- @intradoc Projects -->
-
 ## 🤝 Connect
 
 Feel free to connect with me through these links, though please keep in mind ***I may not be able to respond promptly due to my busy schedule*** and workload. **Thank you for your understanding in advance! 😊**
