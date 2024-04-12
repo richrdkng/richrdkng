@@ -1,6 +1,20 @@
 ## 🖐️ Hello!
 
-I'm Richard King, a **Full-Stack Software Engineer** and a ***UI/UX/Web Design enthusiast*** with **15 years in the industry**.
+I'm Richard King, a **Full-Stack Software Engineer** and a ***UI/UX/Web Design enthusiast*** with **15+ years of experience**, an *eager polyglot*:
+
+- **proficient** in: <a href="https://github.com/pressfield" title="JavaScript"><sub><img src="./media/icons/tech/javascript/color.svg" width="20" height="20" /></sub></a> JavaScript, <a href="https://github.com/pressfield" title="JavaScript"><sub><sub><img src="./media/icons/tech/typescript/color.svg" width="20" height="20" /></sub></sub></a> TypeScript, Python, Java, 
+- **competent** in: PHP, Ruby, C/C++
+- ***learning***: Rust and Go
+
+crafting **open source** ***tools, utilities, and libraries***, creating enterprise solutions using **React** ***(inc. React Native)***, **Django**, and **Spring Boot**, writing about software-related topics, and advising on various IT projects.
+
+## 🚀 Projects
+
+- <a href="https://github.com/pressfield" title="JavaScript"><sub><img src="./media/icons/projects/pressfield/color.svg" width="24" height="24" /></sub></a>&nbsp; **Pressfield** *([github.com/pressfield](https://github.com/pressfield))* <a href="https://github.com/pressfield" title="JavaScript"><sub><img src="./media/icons/tech/javascript/color.svg" width="20" height="20" /></sub></a> <a href="https://github.com/pressfield" title="JavaScript"><sub><img src="./media/icons/tech/typescript/color.svg" width="20" height="20" /></sub></a>
+
+  <details><summary><i>Smart, automated, AI-driven <b>software release updates</b> and changelog publishing.</i><br/><sup><sub>Keywords:</sub></sup> <b><i>AI</i></b>, <b><i>ML</i></b></summary>Peek a boo!</details>
+
+---
 
 <!-- <br/>
 
