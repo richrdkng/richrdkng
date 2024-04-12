@@ -5,18 +5,18 @@ I'm Richard King, a **Full-Stack Software Engineer**
 and a ***UI/UX/Web Design enthusiast*** with **15+ years of experience**,
 an *eager polyglot*:
 
-- **proficient** in:&nbsp; <a href="github.com/richrdkng" title="JavaScript"><sub><sub><img src="./media/icons/tech/javascript/color.svg" width="20" height="20" /></sub></sub></a> JavaScript,&nbsp; <a href="github.com/richrdkng" title="TypeScript"><sub><sub><img src="./media/icons/tech/typescript/color.svg" width="20" height="20" /></sub></sub></a> TypeScript,&nbsp; <a href="github.com/richrdkng" title="Python"><sub><sub><img src="./media/icons/tech/python/color.svg" width="20" height="20" /></sub></sub></a> Python,&nbsp; <a href="github.com/richrdkng" title="Java"><sub><sub><img src="./media/icons/tech/java/color.svg" width="20" height="20" /></sub></sub></a> Java
+- **proficient** in:&nbsp; <a href="github.com/richrdkng" title="JavaScript"><sub><sub><img src="./media/icons/tech/javascript/color.svg" width="18" height="18" /></sub></sub></a> **JavaScript**,&nbsp; <a href="github.com/richrdkng" title="TypeScript"><sub><sub><img src="./media/icons/tech/typescript/color.svg" width="18" height="18" /></sub></sub></a> **TypeScript**,&nbsp; <a href="github.com/richrdkng" title="Python"><sub><sub><img src="./media/icons/tech/python/color.svg" width="18" height="18" /></sub></sub></a> **Python**,&nbsp; <a href="github.com/richrdkng" title="Java"><sub><sub><img src="./media/icons/tech/java/color.svg" width="18" height="18" /></sub></sub></a> **Java**
 
-- **competent** in:&nbsp; <a href="github.com/richrdkng" title="PHP"><sub><sub><img src="./media/icons/tech/php/color.svg" width="20" height="20" /></sub></sub></a> PHP,&nbsp; <a href="github.com/richrdkng" title="Ruby"><sub><sub><img src="./media/icons/tech/ruby/color.svg" width="20" height="20" /></sub></sub></a> Ruby,&nbsp; <a href="github.com/richrdkng" title="C"><sub><sub><img src="./media/icons/tech/c/color.svg" width="20" height="20" /></sub></sub></a> C,&nbsp; <a href="github.com/richrdkng" title="C++"><sub><sub><img src="./media/icons/tech/cpp/color.svg" width="20" height="20" /></sub></sub></a> C++
+- ***competent*** in:&nbsp; <a href="github.com/richrdkng" title="PHP"><sub><sub><img src="./media/icons/tech/php/color.svg" width="18" height="18" /></sub></sub></a> ***PHP***,&nbsp; <a href="github.com/richrdkng" title="Ruby"><sub><sub><img src="./media/icons/tech/ruby/color.svg" width="18" height="18" /></sub></sub></a> ***Ruby***,&nbsp; <a href="github.com/richrdkng" title="C"><sub><sub><img src="./media/icons/tech/c/color.svg" width="18" height="18" /></sub></sub></a> ***C***,&nbsp; <a href="github.com/richrdkng" title="C++"><sub><sub><img src="./media/icons/tech/cpp/color.svg" width="18" height="18" /></sub></sub></a> ***C++***
 
-- ***learning***:&nbsp; <a href="github.com/richrdkng" title="Rust"><sub><sub><img src="./media/icons/tech/rust/color.svg" width="20" height="20" /></sub></sub></a> Rust,&nbsp; <a href="github.com/richrdkng" title="Go"><sub><sub><img src="./media/icons/tech/go/color.svg" width="20" height="20" /></sub></sub></a> Go
+- ***learning***:&nbsp; <a href="github.com/richrdkng" title="Rust"><sub><sub><img src="./media/icons/tech/rust/color.svg" width="18" height="18" /></sub></sub></a> ***Rust***,&nbsp; <a href="github.com/richrdkng" title="Go"><sub><sub><img src="./media/icons/tech/go/color.svg" width="18" height="18" /></sub></sub></a> ***Go***
 
 crafting **open source** ***tools, utilities, and libraries***,
 creating enterprise solutions using
-<a href="github.com/richrdkng" title="React"><sub><sub><img src="./media/icons/tech/react/color.svg" width="20" height="20" /></sub></sub></a> **React**
-***(inc.*** <a href="github.com/richrdkng" title="React Native"><sub><sub><img src="./media/icons/tech/react-native/color.svg" width="20" height="20" /></sub></sub></a> ***React Native)***,
-<a href="github.com/richrdkng" title="Django"><sub><sub><img src="./media/icons/tech/django/color.svg" width="20" height="20" /></sub></sub></a> **Django**, and
-<a href="github.com/richrdkng" title="Spring Boot"><sub><sub><img src="./media/icons/tech/spring-boot/color.svg" width="20" height="20" /></sub></sub></a> **Spring Boot**,
+<a href="github.com/richrdkng" title="React"><sub><sub><img src="./media/icons/tech/react/color.svg" width="18" height="18" /></sub></sub></a> **React**
+***(inc.*** <a href="github.com/richrdkng" title="React Native"><sub><sub><img src="./media/icons/tech/react-native/color.svg" width="18" height="18" /></sub></sub></a> ***React Native)***,
+<a href="github.com/richrdkng" title="Django"><sub><sub><img src="./media/icons/tech/django/color.svg" width="18" height="18" /></sub></sub></a> **Django**, and
+<a href="github.com/richrdkng" title="Spring Boot"><sub><sub><img src="./media/icons/tech/spring-boot/color.svg" width="18" height="18" /></sub></sub></a> **Spring Boot**,
 writing about software-related topics,
 and advising on various IT projects.
 <!-- @intradoc Intro -->
