@@ -12,7 +12,7 @@ crafting **open source** ***tools, utilities, and libraries***, creating enterpr
 
 - <a href="https://github.com/pressfield" title="JavaScript"><sub><img src="./media/icons/projects/pressfield/color.svg" width="24" height="24" /></sub></a>&nbsp; **Pressfield** *([github.com/pressfield](https://github.com/pressfield))* <a href="https://github.com/pressfield" title="JavaScript"><sub><img src="./media/icons/tech/javascript/color.svg" width="20" height="20" /></sub></a> <a href="https://github.com/pressfield" title="JavaScript"><sub><img src="./media/icons/tech/typescript/color.svg" width="20" height="20" /></sub></a>
 
-  <details><summary><i>Smart, automated, AI-driven <b>software release updates</b> and changelog publishing.</i><br/><sup><sub>KEYWORDS:</sub></sup> <b><i>AI</i></b>, <b><i>ML</i></b></summary>Peek a boo!</details>
+  <details><summary><i>Smart, automated, AI-driven <b>software release updates</b> and changelog publishing.</i><br/><b><sup><sub>KEYWORDS:</sub></sup></b>&nbsp; <b><i>AI</i></b>, <b><i>ML</i></b></summary>Peek a boo!</details>
 
 ---
 
