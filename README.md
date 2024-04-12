@@ -10,7 +10,7 @@ and a ***UI/UX/Web Design enthusiast*** with **15+ years of experience**.
 - <a href="https://github.com/pressfield" title="Pressfield"><sub><sub><sub><sub><sub><img src="./media/icons/projects/pressfield/color.svg" width="26" height="26" /></sub></sub></sub></sub></sub></a>&nbsp; **Pressfield** <i>(<a href="https://github.com/pressfield" title="GitHub repository of Pressfield">github.com/pressfield</a>)</i> <sup><sub>&nbsp;――&nbsp;</sub></sup> <a href="https://github.com/pressfield" title="JavaScript"><sub><sub><img src="./media/icons/tech/javascript/color.svg" width="20" height="20" /></sub></sub></a> <a href="https://github.com/pressfield" title="TypeScript"><sub><sub><img src="./media/icons/tech/typescript/color.svg" width="20" height="20" /></sub></sub></a> <a href="https://github.com/pressfield" title="Python"><sub><sub><img src="./media/icons/tech/python/color.svg" width="20" height="20" /></sub></sub></a> <sup><sub>&nbsp;――&nbsp;</sub></sup> <b title="Artificial Intelligence"><i>AI</i></b>, <b title="Machine Learning"><i>ML</i></b>, <b title="Software Development & IT Operations"><i>DevOps</i></b>, <b title="Continuous Integration & Continuous Delivery"><i>CI/CD</i></b>, <b title="Online Social Media"><i>Social Media</i></b>
 
   <details>
-    <summary>&nbsp;―&nbsp; Smart, automated, AI-driven software release updates and changelog publishing.</summary>
+    <summary><sup><sub>&nbsp;――&nbsp;</sub></sup> Smart, automated, AI-driven software release updates and changelog publishing.</summary>
     <br/>
     Peek a boo!
     Smart, automated, AI-driven software release updates and changelog publishing.
