@@ -2,6 +2,20 @@
 
 I'm Richard King, a **Full-Stack Software Engineer** and a ***UI/UX/Web Design enthusiast*** with **15+ years of experience**.
 
+## 🚀 Projects
+
+- <a href="https://github.com/pressfield" title="JavaScript"><sub><img src="./media/icons/projects/pressfield/color.svg" width="24" height="24" /></sub></a>&nbsp; **Pressfield** *([github.com/pressfield](https://github.com/pressfield))* <sup><sub>&nbsp;―&nbsp;</sub></sup>
+ <a href="https://github.com/pressfield" title="JavaScript"><sub><img src="./media/icons/tech/javascript/color.svg" width="20" height="20" /></sub></a> <a href="https://github.com/pressfield" title="JavaScript"><sub><img src="./media/icons/tech/typescript/color.svg" width="20" height="20" /></sub></a> <sup><sub>&nbsp;―&nbsp;</sub></sup> ***AI***, ***ML***
+
+  <details><summary><i>Smart, automated, AI-driven <b>software release updates</b> and changelog publishing.</summary>Peek a boo!</details>
+
+- <a href="https://github.com/pressfield" title="JavaScript"><sub><img src="./media/icons/projects/pressfield/color.svg" width="24" height="24" /></sub></a>&nbsp; **Pressfield** *([github.com/pressfield](https://github.com/pressfield))* <sup><sub>&nbsp;―&nbsp;</sub></sup>
+ <a href="https://github.com/pressfield" title="JavaScript"><sub><img src="./media/icons/tech/javascript/color.svg" width="20" height="20" /></sub></a> <a href="https://github.com/pressfield" title="JavaScript"><sub><img src="./media/icons/tech/typescript/color.svg" width="20" height="20" /></sub></a> <sup><sub>&nbsp;―&nbsp;</sub></sup> ***AI***, ***ML***
+
+  <details><summary><i>Smart, automated, AI-driven <b>software release updates</b> and changelog publishing.</summary>Peek a boo!</details>
+
+---
+
 ## 🤝 Connect
 
 Feel free to connect with me through these links, though please keep in mind ***I may not be able to respond promptly due to my busy schedule*** and workload. **Thank you for your understanding in advance! 😊**
