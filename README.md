@@ -2,7 +2,28 @@
 
 <!-- @intradoc Intro -->
 I'm Richard King, a **Full-Stack Software Engineer**
-and a ***UI/UX/Web Design enthusiast*** with **15+ years of experience**.
+and a ***UI/UX/Web Design enthusiast*** with **15+ years of experience**,
+an *eager polyglot*:
+
+- **proficient** in:&nbsp; <a href="github.com/richrdkng" title="JavaScript"><sub><sub><img src="./media/icons/tech/javascript/color.svg" width="16" height="16" /></sub></sub></a> **JavaScript**,&nbsp; <a href="github.com/richrdkng" title="TypeScript"><sub><sub><img src="./media/icons/tech/typescript/color.svg" width="16" height="16" /></sub></sub></a> **TypeScript**,&nbsp; <a href="github.com/richrdkng" title="Python"><sub><sub><img src="./media/icons/tech/python/color.svg" width="16" height="16" /></sub></sub></a> **Python**,&nbsp; <a href="github.com/richrdkng" title="Java"><sub><sub><img src="./media/icons/tech/java/color.svg" width="16" height="16" /></sub></sub></a> **Java**
+
+- ***competent*** in:&nbsp; <a href="github.com/richrdkng" title="PHP"><sub><sub><img src="./media/icons/tech/php/color.svg" width="16" height="16" /></sub></sub></a> ***PHP***,&nbsp; <a href="github.com/richrdkng" title="Ruby"><sub><sub><img src="./media/icons/tech/ruby/color.svg" width="16" height="16" /></sub></sub></a> ***Ruby***,&nbsp; <a href="github.com/richrdkng" title="C"><sub><sub><img src="./media/icons/tech/c/color.svg" width="16" height="16" /></sub></sub></a> ***C***,&nbsp; <a href="github.com/richrdkng" title="C++"><sub><sub><img src="./media/icons/tech/cpp/color.svg" width="16" height="16" /></sub></sub></a> ***C++***
+
+- ***learning***:&nbsp; <a href="github.com/richrdkng" title="Rust"><sub><sub><img src="./media/icons/tech/rust/color.svg" width="16" height="16" /></sub></sub></a> ***Rust***,&nbsp; <a href="github.com/richrdkng" title="Go"><sub><sub><img src="./media/icons/tech/go/color.svg" width="16" height="16" /></sub></sub></a> ***Go***
+
+crafting **open source** ***tools, utilities, and libraries***,
+creating enterprise solutions using
+<a href="github.com/richrdkng" title="React"><sub><sub><img src="./media/icons/tech/react/color.svg" width="16" height="16" /></sub></sub></a> **React**
+***(inc.*** <a href="github.com/richrdkng" title="React Native"><sub><sub><img src="./media/icons/tech/react-native/color.svg" width="16" height="16" /></sub></sub></a> ***React Native)***,
+<a href="github.com/richrdkng" title="Django"><sub><sub><img src="./media/icons/tech/django/color.svg" width="16" height="16" /></sub></sub></a> **Django**, and
+<a href="github.com/richrdkng" title="Spring Boot"><sub><sub><img src="./media/icons/tech/spring-boot/color.svg" width="16" height="16" /></sub></sub></a> **Spring Boot**,
+writing about software-related topics,
+and advising on various IT projects.
+<!-- @intradoc Intro -->
+
+## 🚀 Projects
+
+<!-- TODO: 1-2 main sentence -->
 
 <!-- @intradoc Projects -->
 
@@ -116,3 +137,34 @@ Feel free to connect with me through these links, though please keep in mind ***
 
 <!-- @intradoc Connect -->
 
+## 🍻 Support
+
+Maintaining open source projects ***takes time and effort***. If you find value in any of what I create, **please consider supporting my work** through one of the provided links. ***Your generosity fuels the open source community. Thank you!*** ❤️
+
+<!-- TODO: cashapp tag, donably, gh sponsors, liberapay, boosty.to, donorbox.org, crypto and more (https://github.com/Ileriayo/markdown-badges#-funding) -->
+
+<br/>
+
+<!-- @intradoc Support -->
+<!-- 1st row -->
+<p align="center">
+  <!-- PayPal -->
+  <a href="https://www.paypal.com/donate/?hosted_button_id=ZCJ75S25NS7QC"><img src="./media/icons/gh-profile/paypal/icon.svg" /></a>
+  <!-- Patreon -->
+  <a href="https://www.patreon.com/richrdkng"><img src="./media/icons/gh-profile/patreon/icon.svg" /></a>
+  <!-- SubscribeStar -->
+  <a href="https://www.subscribestar.com/richrdkng"><img src="./media/icons/gh-profile/subscribe-star/icon.svg" /></a>
+</p>
+
+<!-- 2nd row -->
+<p align="center">
+  <!-- Ko-fi -->
+  <a href="https://ko-fi.com/richrdkng"><img src="./media/icons/gh-profile/ko-fi/icon.svg" /></a>
+  <!-- Buy me a coffee -->
+  <a href="https://ko-fi.com/richrdkng"><img src="./media/icons/gh-profile/buy-me-a-coffee/icon.svg" /></a>
+</p>
+
+
+<!-- @intradoc Support -->
+
+<br/>
